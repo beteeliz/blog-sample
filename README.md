@@ -1,1 +1,1 @@
-![Project humbnail](./thumbnail.jpg)
+# Blog sample
