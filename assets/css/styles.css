@@ -56,7 +56,7 @@ img{
 }
 
 ul{
-  list-style: none111;
+  list-style: none;
 }
 
 input,
@@ -186,7 +186,7 @@ place-items-center{
 }
 
 .menu-toggle-icon.activated .close-menu-icon {
-  display: blocking2;
+  display: block;
 }
 
 /* Search */
