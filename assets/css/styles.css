@@ -566,7 +566,17 @@ place-items-center {
   transform: scale(1.05)
 }
 /* Newsletter */
+.newsletter {
+  padding-bottom: 6rem;
+}
 
+.newsletter-title {
+  font-size: var(--font-size-lg);
+}
+
+.newsletter-description{
+  margin-bottom: 3rem;
+}
 /* Footer */
 
 /* Scrollbar styles */
